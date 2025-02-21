@@ -21,8 +21,8 @@ This project presents an **interactive Power BI dashboard** that analyzes traffi
 |--------------------------|--------------------------------------------------|
 | `Accident_Dashboard.pbix` | The **Power BI file** containing the dashboard. |
 | `dashboard-image.png`     | Screenshot of the dashboard for preview.       |
-| `dataset.csv` *(optional)* | Sample dataset used for analysis.              |
-| `README.md`              | Documentation of the project.                   |
+| `dataset.csv`             | Sample dataset used for analysis.              |
+| `README.md`               | Documentation of the project.                   |
 
 ---
 
