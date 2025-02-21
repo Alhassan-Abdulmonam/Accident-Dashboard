@@ -38,7 +38,7 @@ Before using this project, ensure you have the following installed:
 
 1️⃣ **Clone the Repository** (if using Git):  
 ```bash
-git clone https://github.com/yourusername/Accident-Dashboard.git
+git clone https://github.com/Alhassan-Abdulmonam/Accident-Dashboard.git
 cd Accident-Dashboard
 ```
 
