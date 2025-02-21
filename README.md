@@ -125,9 +125,9 @@ Contributions are welcome! If you have suggestions or want to improve the dashbo
 ---
 
 ## 🌎 **Connect With Me**
-📧 Email: [My Gmail](alhassanabdulmonam@gmail.com) 
-🔗 LinkedIn: [My LinkedIn Profile](www.linkedin.com/in/hassan-abdulmonam-)   
-💻 GitHub: [My GitHub Profile](https://github.com/Alhassan-Abdulmonam)
+📧 Email: [My Gmail](alhassanabdulmonam@gmail.com).
+🔗 LinkedIn: [My LinkedIn Profile](www.linkedin.com/in/hassan-abdulmonam-).
+💻 GitHub: [My GitHub Profile](https://github.com/Alhassan-Abdulmonam).
 
 ---
 
