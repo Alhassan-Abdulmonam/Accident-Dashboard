@@ -125,14 +125,14 @@ Contributions are welcome! If you have suggestions or want to improve the dashbo
 ---
 
 ## 🌎 **Connect With Me**
-📧 Email: your-email@example.com  
-🔗 LinkedIn: [Your LinkedIn Profile](https://linkedin.com/in/yourprofile)  
-💻 GitHub: [Your GitHub Profile](https://github.com/yourusername)
+📧 Email: [My Gmail](alhassanabdulmonam@gmail.com) 
+🔗 LinkedIn: [My LinkedIn Profile](www.linkedin.com/in/hassan-abdulmonam-)   
+💻 GitHub: [My GitHub Profile](https://github.com/Alhassan-Abdulmonam)
 
 ---
 
 ## 📷 **Dashboard Preview**
-![Dashboard Screenshot](dashboard-image.png)
+![Dashboard Screenshot](https://github.com/Alhassan-Abdulmonam/Accident-Dashboard/blob/main/Accident-Dashboard.png)
 
 ---
 
